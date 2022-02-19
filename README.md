@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 
-![All page](assets/Google Clone.png)
+![All page](assets/Google-clone.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,8 +75,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
+# This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # google-clone
+
 This google clone web app which use google search api from rapid api
->>>>>>> 0eeaa15e79c8c4cf54f95aa748a810a439f2c558
+
+> > > > > > > 0eeaa15e79c8c4cf54f95aa748a810a439f2c558
