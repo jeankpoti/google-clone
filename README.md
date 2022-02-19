@@ -1,6 +1,12 @@
 <<<<<<< HEAD
-
+# All page
 ![All page](assets/Google-clone.png)
+# News page
+![All page](assets/Google-clone-news.png)
+# Images page
+![All page](assets/Google-clone-images.png)
+# Videos page
+![All page](assets/Google-clone-videos.png)
 
 # Getting Started with Create React App
 
